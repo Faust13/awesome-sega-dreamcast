@@ -7,13 +7,14 @@
 
 > A curated list of awesome Steam Deck software, resources and more.  
 
-[Steam Deck](https://en.wikipedia.org/wiki/Dreamcast) is a home video game console manufactured by Sega.
+[Sega Dreamcast](https://en.wikipedia.org/wiki/Dreamcast) is a home video game console manufactured by Sega.
 
 Contributions and suggestions about how to improve this project are welcome!  
 
 If you want to support my work you can do it following me, leaving a star, sharing my projects or also donating at the links below 
 
 *Support me at Boosty:*
+
 <a href="https://boosty.to/f4ust" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/boosty-logo.svg" alt="boosty" width="64px" />
 </a>
