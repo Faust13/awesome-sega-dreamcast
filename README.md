@@ -26,7 +26,7 @@ If you want to support my work you can do it following me, leaving a star, shari
   - [Mods](#mods)
   - [Accessory](#accessory)
   - [Software](#software)
-  - [Emulation](#emulation)
+  - [Emulation on Dreamcast](#emulation-on-dreamcast)
 
 ## ROMs
 
@@ -81,5 +81,15 @@ If you want to support my work you can do it following me, leaving a star, shari
 - [CHDscripts](https://github.com/questionlp/chdscripts) - scripts to convert ROM's from/to `CHD` format. *Hint: to make ROM's by Erista readable on GDEmu, convert then from `.bin/.cue` to `.chd` and then - from `.chd` to `.gdi`*
 
 
-## Emulation
-  *Work in progress*
+## Emulation on Dreamcast
+  - [DCStella](https://archives.dcemulation.org/DCstella/dindex.html) - Atari 2600 on your Dreamcast!
+  - [Mattel Intellivision Emulators for Sega Dreamcast](https://www.emu-land.net/en/consoles/intellivision/emuls/dc)
+  - [[D]Colem v0.99](https://www.emu-land.net/en/consoles/coleco/emuls/dc) - ColecoVision emulator for the Sega Dreamcast.
+  - [Atari 800](https://atari800.github.io/)
+  - [NesterDC](https://github.com/pqrs-org/NesterDC) - NES now on Dreamcast. Works almost fullspeed.
+  - [CrabEmu](https://dreamcast.wiki/CrabEmu) - is a Sega Master System, Game Gear, SG-1000, ColecoVision and NES emulator for Mac OS X, Linux and Sega Dreamcast, developed by Lawrence Sebald.
+  - [SmsPlusDC](https://github.com/pascalorama/smsplusdc) - SMS Plus is a Sega MasterSystem/GameGear emulator for the Sega Dreamcast.
+  - [GNUboyDC](https://github.com/pqrs-org/dcgnuboy/tree/main) - GameBoy and GameBoy color emulator
+  - [Gens4ALL](https://www.zophar.net/consoles/dreamcast/genesis/gens4all.html) - Sega Genesis (also known as Sega Megadrive) on Sega Dreamcast
+  - [SNES4ALL](http://chui.dcemu.co.uk/snes4all.html) - Alternative Super Nintendo emulator for Dreamcast console.
+  - [Bleemcast](https://sega.fandom.com/wiki/Bleemcast!#The_death_of_Bleem!) - is an independently developed commercial emulator by bleem! for the Sega Dreamcast that allows one to load and play PlayStation One discs on the Dreamcast. idk where to find it in 2024, if you have a link - feel free to contribute. Bleemcast doesn't work with GDEmu.
