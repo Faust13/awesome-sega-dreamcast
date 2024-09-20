@@ -83,7 +83,7 @@ If you want to support my work you can do it following me, leaving a star, shari
 
 ## Emulation on Dreamcast
   - [DCStella](https://archives.dcemulation.org/DCstella/dindex.html) - Atari 2600 on your Dreamcast!
-  - [Mattel Intellivision Emulators for Sega Dreamcast](https://www.emu-land.net/en/consoles/intellivision/emuls/dc)
+  - [IntelliMESS v2](https://www.emu-land.net/en/consoles/intellivision/emuls/dc) - Mattel Intellivision Emulators for Sega Dreamcast
   - [[D]Colem v0.99](https://www.emu-land.net/en/consoles/coleco/emuls/dc) - ColecoVision emulator for the Sega Dreamcast.
   - [Atari 800](https://atari800.github.io/)
   - [NesterDC](https://github.com/pqrs-org/NesterDC) - NES now on Dreamcast. Works almost fullspeed.
