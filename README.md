@@ -22,12 +22,17 @@ If you want to support my work you can do it following me, leaving a star, shari
 ## Contents
 - [Awesome Sega Dreamcast ](#awesome-sega-dreamcast-)
   - [Contents](#contents)
+  - [Lists](#lists)
   - [ROMs](#roms)
   - [Mods](#mods)
   - [Accessory](#accessory)
   - [Software](#software)
   - [Emulation on Dreamcast](#emulation-on-dreamcast)
   - [Developing](#developing)
+
+## Lists
+- [/v/'s recomended](https://vsrecommendedgames.fandom.com/wiki/Dreamcast) - page with best hits and hidden gems for Sega Dreamcast. Comes from Forchan's /v/ board.
+- [Metacritic](https://www.metacritic.com/browse/game/dreamcast/) - list of top-rated Dreamcast titles.
 
 ## ROMs
 
