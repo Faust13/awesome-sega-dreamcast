@@ -96,7 +96,7 @@ If you want to support my work you can do it following me, leaving a star, shari
 
 ## Developing
 - 📄 [Getting Started with Dreamcast development](https://dreamcast.wiki/Getting_Started_with_Dreamcast_development)
-- <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [DreamSDK](https://github.com/dreamsdk/dreamsdk) - DreamSDK is a modern, ready-to-use environment for the Sega Dreamcast development, designed for the Microsoft Windows platform.
+- <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/c.svg" alt="Python" width="12px" /> [DreamSDK](https://github.com/dreamsdk/dreamsdk) - DreamSDK is a modern, ready-to-use environment for the Sega Dreamcast development, designed for the Microsoft Windows platform.
 - <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [VMU Tools](https://github.com/slurmking/vmu-tools) - This python project is designed to be a fully loaded suite of VMU tools for the Dreamcast.
 - <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [pvr2image](https://github.com/VincentNLOBJ/pvr2image) - Convert **DC / Naomi** `.PVR` files to `.png`, `.tga`, or `.bmp`
 - <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [VMU Tools](https://github.com/slurmking/vmu-tools) - This python project is designed to be a fully loaded suite of VMU tools for the Dreamcast.
