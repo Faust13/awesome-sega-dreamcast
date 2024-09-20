@@ -31,10 +31,10 @@ If you want to support my work you can do it following me, leaving a star, shari
 ## ROMs
 
 **LEGEND:**
-🇪🇺 - EU region
-🇺🇸 - USA region
-🇯🇵 - JP region
-🍺 - Homebrew
+- 🇪🇺 - EU region
+- 🇺🇸 - USA region
+- 🇯🇵 - JP region
+- 🍺 - Homebrew
 
 
 - 🇪🇺🇺🇸🇯🇵 [Erista's ROM collection for Dreamcast](https://myrient.erista.me/files/Redump/Sega%20-%20Dreamcast/) - A LOT of roms. All ROM's compressed in `.zip` and have a `.cue/.bin` format.
@@ -46,8 +46,8 @@ If you want to support my work you can do it following me, leaving a star, shari
 ## Mods
 
 **LEGEND:**
-🛠️ - Requires advanced skills, such as soldering or shell modification
-🧩 - Plug 'n' Play
+- 🛠️ - Requires advanced skills, such as soldering or shell modification
+- 🧩 - Plug 'n' Play
 
 - [Terraonion's MODE + PS1 Install Kit](https://shop.terraonion.com/shop/product/terraonion-mode-dreamcast-saturn-ode-ps1-install-kit-pu-18-boards/view) (~$230) - A Multi Optical Disc Emulator that allows you to use an SD card, 2.5" SATA drives, or run games directly from USB drives. It supports `CDI`, `GDI`, `CCD`, `MDF`, and `bin/iso+cue` image formats.
 - [Dreamport](https://www.dreammods.net/dreamport.html) - The DreamPort is a 2-in-1 daughter board, that installs internally to the Dreamcast, adding new exciting features - The existing controller ports will be upgraded with Bluetooth support, Original PSU replacement (12V), Remotely power-on/off the Dreamcast.
