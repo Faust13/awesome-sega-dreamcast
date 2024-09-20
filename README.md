@@ -27,6 +27,7 @@ If you want to support my work you can do it following me, leaving a star, shari
   - [Accessory](#accessory)
   - [Software](#software)
   - [Emulation on Dreamcast](#emulation-on-dreamcast)
+  - [Developing](#developing)
 
 ## ROMs
 
@@ -74,7 +75,6 @@ If you want to support my work you can do it following me, leaving a star, shari
 - [DreamCase](https://trfightstick.com/products/dreamcase-metal-shell) - modern full-metal shell for DreamCast. Great compatability with DCHDMI mod (alredy have a hole for HDMI port)
 - [Octupus Fight Stick](https://trfightstick.com/collections/octopus) - Modern fight stick, compatable with Dreamcast, too. Also have a bult-in screen with VMU functionality. 
 
-
 ## Software
 - [GDMENU Card Manager](https://github.com/sonik-br/GDMENUCardManager) - Manage content on SD Card for Dreamcast's GDEmu/GDMenu/openMenu.
 - [OpenMenu](https://github.com/mrneo240/openmenu) - Better and most beautiful menu for your GDEmu.
@@ -93,3 +93,11 @@ If you want to support my work you can do it following me, leaving a star, shari
   - [Gens4ALL](https://www.zophar.net/consoles/dreamcast/genesis/gens4all.html) - Sega Genesis (also known as Sega Megadrive) on Sega Dreamcast
   - [SNES4ALL](http://chui.dcemu.co.uk/snes4all.html) - Alternative Super Nintendo emulator for Dreamcast console.
   - [Bleemcast](https://sega.fandom.com/wiki/Bleemcast!#The_death_of_Bleem!) - is an independently developed commercial emulator by bleem! for the Sega Dreamcast that allows one to load and play PlayStation One discs on the Dreamcast. idk where to find it in 2024, if you have a link - feel free to contribute. Bleemcast doesn't work with GDEmu.
+
+## Developing
+- 📄 [Getting Started with Dreamcast development](https://dreamcast.wiki/Getting_Started_with_Dreamcast_development)
+- <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [DreamSDK](https://github.com/dreamsdk/dreamsdk) - DreamSDK is a modern, ready-to-use environment for the Sega Dreamcast development, designed for the Microsoft Windows platform.
+- <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [VMU Tools](https://github.com/slurmking/vmu-tools) - This python project is designed to be a fully loaded suite of VMU tools for the Dreamcast.
+- <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [pvr2image](https://github.com/VincentNLOBJ/pvr2image) - Convert **DC / Naomi** `.PVR` files to `.png`, `.tga`, or `.bmp`
+- <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="12px" /> [VMU Tools](https://github.com/slurmking/vmu-tools) - This python project is designed to be a fully loaded suite of VMU tools for the Dreamcast.
+ 
