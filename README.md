@@ -5,7 +5,7 @@
   </a>
 </h3>
 
-> A curated list of awesome Steam Deck software, resources and more.  
+> A curated list of awesome Sega Dreamcast software, resources and more.  
 
 [Sega Dreamcast](https://en.wikipedia.org/wiki/Dreamcast) is a home video game console manufactured by Sega.
 
