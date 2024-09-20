@@ -78,7 +78,7 @@ If you want to support my work you can do it following me, leaving a star, shari
 ## Software
 - [GDMENU Card Manager](https://github.com/sonik-br/GDMENUCardManager) - Manage content on SD Card for Dreamcast's GDEmu/GDMenu/openMenu.
 - [OpenMenu](https://github.com/mrneo240/openmenu) - Better and most beautiful menu for your GDEmu.
-- [CHDscripts](https://github.com/questionlp/chdscripts) - scripts to convert ROM's from/to `CHD` format. *Hint: to make ROM's by Erista readable on GDEmu, convert then from `.bin/.cue` to `.chd` and then - from `.chd` to `.gdi`*
+- [CHDscripts](https://github.com/questionlp/chdscripts) - scripts to convert ROM's from/to `CHD` format. 
 
 
 ## Emulation on Dreamcast
