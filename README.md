@@ -100,6 +100,7 @@ If you want to support my work you can do it following me, leaving a star, shari
   - [Bleemcast](https://sega.fandom.com/wiki/Bleemcast!#The_death_of_Bleem!) - is an independently developed commercial emulator by bleem! for the Sega Dreamcast that allows one to load and play PlayStation One discs on the Dreamcast. idk where to find it in 2024, if you have a link - feel free to contribute. Bleemcast doesn't work with GDEmu.
 
 ## Developing
+- [awesome-dreamcast](https://github.com/dreamcastdevs/awesome-dreamcast) - A collection of useful link and tool for Sega Dreamcast development
 - 📄 [Getting Started with Dreamcast development](https://dreamcast.wiki/Getting_Started_with_Dreamcast_development)
 - <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/c.svg" alt="C++" width="14px" /> [DreamSDK](https://github.com/dreamsdk/dreamsdk) - DreamSDK is a modern, ready-to-use environment for the Sega Dreamcast development, designed for the Microsoft Windows platform.
 - <img src="https://raw.githubusercontent.com/faust13/awesome-sega-dreamcast/main/assets/images/python.svg" alt="Python" width="14px" /> [VMU Tools](https://github.com/slurmking/vmu-tools) - This python project is designed to be a fully loaded suite of VMU tools for the Dreamcast.
